@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21afbdf75e228124eb73bdc527426604, type: 3}
+  m_Name: CurveData
+  m_EditorClassIdentifier: 
+  curvePicker1:
+    samplePoints:
+    - 0
+    - 0.26958525
+    - 0.5884146
+    - 0.90800005
+    sampleTimes:
+    - 0
+    - 0.26958525
+    - 0.5884146
+    - 0.90800005
+    sampleValues:
+    - 0
+    - 1.7884376
+    - 6.312396
+    - 9.761654
+  curvePicker2:
+    samplePoints:
+    - 0
+    - 0.31034482
+    - 0.4969574
+    - 0.7626775
+    - 1
+    - 1
+    sampleTimes:
+    - 0
+    - 0.31034482
+    - 0.4969574
+    - 0.7626775
+    - 1
+    - 1
+    sampleValues:
+    - 0
+    - 22.916065
+    - 49.543613
+    - 85.7767
+    - 100
+    - 100
+  curve1:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 10
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  curve2:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 100
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
